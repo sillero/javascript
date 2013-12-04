@@ -1,6 +1,6 @@
-# Airbnb JavaScript Style Guide() {
+# My personal JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+Based on [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript)
 
 
 ## <a name='TOC'>Table of Contents</a>
@@ -727,12 +727,12 @@
 
 ## <a name='whitespace'>Whitespace</a>
 
-  - Use soft tabs set to 2 spaces
+  - Use soft tabs set to 4 spaces
 
     ```javascript
     // bad
     function() {
-    ∙∙∙∙var name;
+    ∙∙var name;
     }
 
     // bad
@@ -742,7 +742,7 @@
 
     // good
     function() {
-    ∙∙var name;
+    ∙∙∙∙var name;
     }
     ```
   - Place 1 space before the leading brace.

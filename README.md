@@ -1,7 +1,7 @@
 # My personal JavaScript Style Guide() {
 
-Based on [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript)
-
+Based on [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript)  
+The main difference is "Use soft tabs set to <del>2</del> 4 spaces"
 
 ## <a name='TOC'>Table of Contents</a>
 
